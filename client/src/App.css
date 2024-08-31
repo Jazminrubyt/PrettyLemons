@@ -1,0 +1,13 @@
+.h3{
+    text-align: center;
+}
+
+.fullSize-container{
+    height: 100vh;
+    width: 100vw;
+}
+
+.img{
+    height: 350px;
+    width: 350px;
+}
